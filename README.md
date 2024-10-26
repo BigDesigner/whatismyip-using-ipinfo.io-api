@@ -16,7 +16,7 @@ This project is a web application that displays the user's IP information throug
 
 3. **Create a Database**: Create a new database in your MySQL server.
 
-4. **Import SQL File**: Use the following SQL code to create the `config` table:
+4. **Import SQL File**: Import sql-file.sql or Use the following SQL code to create the `config` table:
     ```sql
     CREATE TABLE `config` (
       `id` int NOT NULL,
@@ -78,7 +78,7 @@ Bu proje, kullanıcının IP bilgilerini IPinfo.io API'si aracılığıyla göst
 
 3. **Veritabanı Oluşturun**: MySQL veritabanınızda yeni bir veritabanı oluşturun.
 
-4. **SQL Dosyasını Aktarın**: Aşağıdaki SQL kodunu kullanarak `config` tablosunu oluşturun:
+4. **SQL Dosyasını Aktarın**: sql-file.sql dosyasını içe aktarın veya Aşağıdaki SQL kodunu kullanarak `config` tablosunu oluşturun:
     ```sql
     CREATE TABLE `config` (
       `id` int NOT NULL,
