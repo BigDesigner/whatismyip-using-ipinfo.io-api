@@ -40,7 +40,7 @@ This project is a web application that displays the user's IP information throug
 
 ## Steps to Obtain IPinfo.io Token
 
-1. Go to the [IPinfo.io](https://ipinfo.io/) website.
+1. Go to the https://ipinfo.io/ website.
 2. Click the "Sign Up" button and fill in the required information to create an account.
 3. After logging in to your account, go to the "API Tokens" section.
 4. Click the "Create Token" button and create a new token.
@@ -102,7 +102,7 @@ Bu proje, kullanıcının IP bilgilerini IPinfo.io API'si aracılığıyla göst
 
 ## IPinfo.io Token Alma Adımları
 
-1. [IPinfo.io](https://ipinfo.io/) web sitesine gidin.
+1. https://ipinfo.io/ web sitesine gidin.
 2. "Sign Up" butonuna tıklayın ve gerekli bilgileri doldurarak bir hesap oluşturun.
 3. Hesabınıza giriş yaptıktan sonra, "API Tokens" bölümüne gidin.
 4. "Create Token" butonuna tıklayın ve yeni bir token oluşturun.
